@@ -1,12 +1,14 @@
-HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
-=======
-![Peek 2022-01-24 11-06](https://user-images.githubusercontent.com/11813341/150726892-d47d1860-b157-4453-aab0-860b1328b25c.gif)
+## Project or program name
 
-# Tools used #
-* HTML, CSS and JavaScript
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-* [Font Awesome 5](https://fontawesome.com/)
-* [google map](https://www.embed-map.com/)
+This is my Independent Project - Portfolio Landing Page
 
-This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
+## Author name
 
+Alex Wainaina Kinyanjui
+## Description of project
+
+The above project covers the basics of creating a web page using HTML and CSS
+
+## Project setup instructions
+## Link to live site on GitHub Pages
+## Copyright and license information
