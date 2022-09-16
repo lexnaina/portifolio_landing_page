@@ -19,11 +19,12 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 30px 100px;
+    padding: 10px 100px;
+    background-color: #b3b4ac;
 }
-.logo{
-    height: 150px;
-    width: 150px;
+.profile_pic{
+    height: 100px;
+    width: 100px;
 }
 nav ul li{
     list-style: none;
@@ -76,15 +77,13 @@ nav ul li a:hover:after{
     left: 8%;
 }
 .content .title{
-    color: #e62c13;
+    color: #e613a0;
     font-size: 35px;
     text-transform: uppercase;
     letter-spacing: 4px;
     display: inline-block;
     margin-bottom: 20px;
-    background: linear-gradient(120deg, #2896f0 20.69%, #7644ff 50.19%,#ec0e33 79.69%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    
 }
 .content h1{
     color: #1f1f25;
