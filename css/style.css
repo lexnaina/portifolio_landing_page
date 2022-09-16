@@ -94,6 +94,33 @@ nav ul li a:hover:after{
     top: 35%;
     left: 8%;
 }
+
+.content .title{
+    color: #e613a0;
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    display: inline-block;
+    margin-bottom: 20px;
+    
+}
+.content h1{
+    color: #1f1f25;
+    font-size: 75px;
+    font-weight: 900;
+    line-height: 90px;
+    text-transform: inherit;
+    width: 70%;
+}
+.content h1 span{
+    color: #fd4766;
+}
+.content p{
+    width: 65%;
+    color: #1411e7;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
 .about{
     position: absolute;
     top: 25%;
@@ -121,32 +148,6 @@ nav ul li a:hover:after{
 .about p{
     width: 35%;
     color: #67e711;
-    margin-top: 25px;
-    margin-bottom: 30px;
-}
-.content .title{
-    color: #e613a0;
-    font-size: 35px;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    display: inline-block;
-    margin-bottom: 20px;
-    
-}
-.content h1{
-    color: #1f1f25;
-    font-size: 75px;
-    font-weight: 900;
-    line-height: 90px;
-    text-transform: inherit;
-    width: 70%;
-}
-.content h1 span{
-    color: #fd4766;
-}
-.content p{
-    width: 35%;
-    color: #1411e7;
     margin-top: 25px;
     margin-bottom: 30px;
 }
