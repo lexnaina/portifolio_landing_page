@@ -124,7 +124,7 @@ nav ul li a:hover:after{
 }
 .about{
     position: absolute;
-    top: 25%;
+    top: 10%;
     left: 38%;
 
 }
@@ -140,7 +140,7 @@ nav ul li a:hover:after{
 .about h2{
     color: #090966;
     font-size: 75px;
-    font-weight: 900;
+    font-weight: 700;
     line-height: 90px;
     text-transform: inherit;
     width: 70%;
