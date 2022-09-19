@@ -121,6 +121,7 @@ nav ul li a:hover:after{
     color: #1411e7;
     margin-top: 25px;
     margin-bottom: 30px;
+    font-size: 25px;
 }
 .about{
     position: absolute;
